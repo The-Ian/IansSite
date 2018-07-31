@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainSite.Master.cs" Inherits="IansSite.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Main.css" rel="stylesheet" />
+
+
+</head>
+<body style="background-color: black;">
+    <form id="form1" runat="server">
+    <header>
+        <div style="text-align:left">
+
+            <asp:Button ID="Button1" runat="server" BackColor="Black" BorderStyle="None" ForeColor="White" OnClick="Button1_Click" Text="Logout" />
+
+        </div>
+	<h1>IAN MCKIVER</h1>
+	<a href="Default.aspx" style="color:ghostwhite">Resume</a>
+    <a href="Info.aspx" style="color:ghostwhite">Summary</a>
+    <a href="Calculator.aspx" style="color:ghostwhite">Calculator</a>
+    <a href="Sandbox.aspx" style="color:ghostwhite">Sandbox</a>
+        <br />
+        <asp:HyperLink ID="Login" runat="server" style="color:ghostwhite" NavigateUrl="~/Login.aspx" Visible="False">Login</asp:HyperLink>
+        <asp:Label ID="User" runat="server" Text="Label"  Visible="False"></asp:Label>
+</header>
+        <div>
+            
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <div class="container">
+
+<footer>
+	<p>1GoldenSpider1@gmail.com</p>
+	<p>1619 NE 28th St</p>
+	<p>(352) 414 - 6694</p>
+    
+</footer>
+           </div>
+        </div>
+    </form>
+</body>
+</html>

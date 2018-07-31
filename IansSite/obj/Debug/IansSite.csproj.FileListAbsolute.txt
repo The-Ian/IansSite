@@ -1,0 +1,72 @@
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\csc.exe
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\csc.exe.config
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\csc.rsp
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\csi.exe
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\csi.rsp
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\System.AppContext.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\vbc.exe
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\vbc.exe.config
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\vbc.rsp
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\IansSite.dll.config
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\IansSite.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\IansSite.pdb
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\obj\Debug\IansSite.dll
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\obj\Debug\IansSite.pdb
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\obj\Debug\IansSite.csprojAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\obj\Debug\IansSite.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\IansSite\IansSite\obj\Debug\IansSite.csproj.CopyComplete
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\csc.exe
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\csc.exe.config
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\csc.rsp
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\csi.exe
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\csi.rsp
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\System.AppContext.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\vbc.exe
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\vbc.exe.config
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\vbc.rsp
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\IansSite.dll.config
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\IansSite.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\IansSite.pdb
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\obj\Debug\IansSite.csprojAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\obj\Debug\IansSite.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\obj\Debug\IansSite.csproj.CopyComplete
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\obj\Debug\IansSite.dll
+C:\Users\Cyberadmin\Desktop\ASP.Net Stuff\IansSite\IansSite\obj\Debug\IansSite.pdb
