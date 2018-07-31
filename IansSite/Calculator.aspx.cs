@@ -20,6 +20,11 @@ namespace IansSite
                 User.Text = "Hello " + Session["User"];
             }
 
+            if (Session["User"] == null)
+            {
+                Button2.Visible = false;
+            }
+
             if (!IsPostBack)
             {
                 ViewState["Number"] = "0"; 
